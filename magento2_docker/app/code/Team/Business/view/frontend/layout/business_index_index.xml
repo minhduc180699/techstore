@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<page layout="1column" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <title>Tin tức kinh doanh </title>
+        <css src="Team::css/style.css"/>
+    </head>
+    <referenceBlock name="content">
+        <block class="Team\Business\Block\Business" name="team_business" template="business.phtml"/>
+    </referenceBlock>
+</page>

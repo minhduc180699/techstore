@@ -1,0 +1,93 @@
+<?php
+    if(isset($_POST['city'])){
+        $cityrequest = urlencode($_POST['city']);
+
+    }else{
+        $cityrequest = "Hanoi";
+    }
+    $json = file_get_contents("http://api.openweathermap.org/data/2.5/weather?q=".$cityrequest."&appid=cb5355fe9b51005d44b9b448ac498550");
+    $obj = json_decode($json,true);
+    $weather = $obj["weather"];
+    $sys = $obj["sys"];
+    $main = $obj["main"];
+    $wind = $obj["wind"];
+    $clouds = $obj['clouds'];
+    $cityname = $obj["name"];
+    $visibility = $obj['visibility'];
+    $iconURL = "http://openweathermap.org/img/w/".$weather[0]["icon"].".png";
+    $temp = (float) $main["temp"] - 273.15;
+    $feelslike =(float)$main["feels_like"] -273.15;
+    $windspeed = $wind['speed'];
+    $winddeg = $wind['deg'];
+    $pressure = $main['pressure'];
+    $humidity = $main['humidity'];
+    $all = $clouds['all'];
+    $tempmax = (float) $main["temp_max"] - 273.15;
+?>
+<div style="width: 300px">
+    <div>
+        <form method="post" action="/weather">
+            <input type ="text" name="city" placeholder="Search city">
+            <input type="submit" value="Search">
+        </form>
+    </div>
+    <div>
+        <h2 style="font-weight: bold"> <?php echo $cityname.", ".$sys["country"] ?> </h2>
+    </div>
+    <div>
+        <table>
+        <tr>
+            <th style="width: 80px"><?php echo "<img src=$iconURL>"; ?> </th>
+            <th><?php  echo "<p id='temp'>$temp &deg;C</p>";?> </th>
+        </tr>
+        </table>
+        <p style="font-weight: bold"><?php echo "Feels like $feelslike &deg;C. ".$weather[0]['description'];?></p>
+        <table class="table">
+            <tr>
+                <td>
+                    <p> <?php echo "wind: ".$windspeed ."m/s, ".$winddeg. "&deg;";?></p>
+                </td>
+                <td>
+                    <p> <?php echo "Pressure: ".$pressure."hPa"; ?></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p> <?php echo "humidity: ".$humidity."%";?></p>
+                </td>
+                <td>
+                    <p> <?php echo "cloud: ".$all."%"; ?></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p> <?php echo "visibility: ".$visibility."m";?></p>
+                </td>
+                <td>
+                    <p> <?php echo "temp max: ".$tempmax."&deg;C" ?></p>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+<script>
+    var sendajax = function () {
+        //Khoi tao doi tuong
+        var xhttp = new XMLHttpRequest() || ActiveXObject();
+        //Bat su kien thay doi trang thai cuar request
+        xhttp.onreadystatechange = function () {
+            //Kiem tra neu nhu da gui request thanh cong
+            if (this.readyState == 4 && this.status == 200) {
+                //In ra data nhan duoc
+                addData(this.responseText)
+            }
+        }
+        //cau hinh request
+        xhttp.open('GET','description.php?data=true',true);
+        //gui request
+        xhttp.send();
+    }
+    var addData = function (data) {
+        document.getElementById('result').innerText = data;
+    }
+</script>

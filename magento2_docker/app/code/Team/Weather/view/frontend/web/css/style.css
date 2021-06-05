@@ -1,0 +1,14 @@
+.div1{
+    color: #0f5293;
+}
+.temp{
+    content: "\00B0";
+}
+#temp{
+    font-size: xx-large;
+    text-align: left;
+}
+.table{
+    font-size: small;
+    background: #7eadd9;
+}

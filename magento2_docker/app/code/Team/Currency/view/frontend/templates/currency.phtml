@@ -1,0 +1,37 @@
+<?php
+    $doc = new DOMDocument();
+    $i = 0;
+    $doc->load("https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx?b=68");
+    $articles = $doc->getElementsByTagName("Exrate");
+    echo '<div style="text-align: center;width: 80%">';
+    echo '<table style="width:80%;border-collapse: collapse;text-align: center;border: 1px solid black;">';
+    echo "<tr style='text-align: center'>";
+    echo "<th colspan='2' style='width:35%;border-collapse: collapse;border: 1px solid black;text-align:center'>"."Ngoại tệ"."</th>";
+    echo "<th colspan='2' style='width:30%;border-collapse: collapse;border: 1px solid black;text-align:center' >"."Mua"."</th>";
+    echo "<th rowspan='2' style='width:15%;border-collapse: collapse;border: 1px solid black;text-align:center'>"."<div style='font-weight:bold;'>Bán</div>"."</th>";
+    echo "</tr>";
+    echo '<tr style="margin: auto">
+                    <th style="width:25%;border-collapse: collapse;border: 1px solid black;text-align:center">Tên ngoại tệ</th>
+                    <th style="width:10%;border-collapse: collapse;border: 1px solid black;text-align:center">Mã NT</th>
+                    <th style="width: 15%;border-collapse: collapse;border: 1px solid black;text-align:center">Tiền mặt</th>
+                    <th style="width: 15%;border-collapse: collapse;border: 1px solid black;text-align:center">Chuyển khoản</th>
+                </tr>';
+    foreach ($articles as $item){
+        $CurrencyCode = $item->getAttribute("CurrencyCode");
+        $CurrencyName = $item->getAttribute("CurrencyName");
+        $Buy = $item->getAttribute("Buy");
+        $Transfer = $item->getAttribute("Transfer");
+        $Sell = $item->getAttribute("Sell");
+        echo "<tr>
+                <td style='width: 25%;border-collapse: collapse;border: 1px solid black;text-align:center;'> $CurrencyName </td>
+                <td style='width: 10%;border-collapse: collapse;border: 1px solid black;text-align:center;'>$CurrencyCode</td>
+                <td style='width: 15%;border-collapse: collapse;border: 1px solid black;text-align:center;'>$Buy </td>
+                <td style='width: 15%;border-collapse: collapse;border: 1px solid black;text-align:center;'>$Transfer</td>
+                <td style='width: 15%;border-collapse: collapse;border: 1px solid black;text-align:center;'>$Sell</td>
+            </tr>";
+    }
+    echo "</table>";
+    echo '</div>';
+?>
+
+

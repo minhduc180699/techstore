@@ -1,0 +1,13 @@
+upstream fastcgi_backend {
+  #server   unix:/run/php/php7.4-fpm.sock;
+  server php:9000;
+}
+server {
+    server_name dev.magentogit.com;
+    listen 80;
+    set $MAGE_ROOT /var/www/docker/magento2_docker;
+    set $MAGE_MODE developer;
+    # or production access_log /var/log/nginx/myMagentoSite.com-access.log;
+    error_log /var/log/nginx/example.com-error.log;
+    include /var/www/docker/magento2_docker/nginx.conf.sample;
+}

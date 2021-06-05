@@ -1,0 +1,26 @@
+<?php
+    $doc = new DOMDocument();
+    $i = 0;
+    $doc->load("https://vnexpress.net/rss/kinh-doanh.rss");
+    $articles = $doc->getElementsByTagName("item");
+    echo '<div style="width:80%;margin:auto;text-align: center">';
+    foreach ($articles as $item){
+        $title =  $item->getElementsByTagName("title");
+        $description = $item->getElementsByTagName("description");
+        echo '<table>';
+        echo '<tr>';
+        echo '<td style="text-align: left">';
+        echo '<h2>'.$title->item(0)->nodeValue.'</h2>';
+        echo '</td>';
+        echo '<td style="height: 180px;width: 300px">';
+        echo $description->item(0)->nodeValue;
+        echo '</td>';
+        echo '</tr>';
+        echo '</table>';
+        echo "<br/>";
+    }
+    echo '</div>';
+?>
+
+
+
