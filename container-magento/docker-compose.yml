@@ -2,7 +2,8 @@ version: "3.2"
 
 services:
   php:
-    image: container-magento_php:latest
+    build:
+      context: ./dev/docker/images/php
     working_dir: /var/www/docker/magento2_docker
     restart: always
     volumes:

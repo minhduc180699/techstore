@@ -1,0 +1,1 @@
+/var/www/docker/magento2_docker/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js

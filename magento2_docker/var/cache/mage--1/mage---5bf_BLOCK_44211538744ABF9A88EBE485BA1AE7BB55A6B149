@@ -1,0 +1,755 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1622897682;s:6:"expire";i:1622984082;s:4:"tags";s:173:"5bf_CAT_P,5bf_BLOCK_HTML,5bf_CAT_P_110,5bf_CAT_P_109,5bf_CAT_P_108,5bf_CAT_P_107,5bf_CAT_P_106,5bf_CAT_P_105,5bf_CAT_P_104,5bf_CAT_P_103,5bf_CAT_P_102,5bf_CAT_P_101,5bf_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:16:{s:44:"0BLxDkFQLWHGeJ5hkRGMPoOj+bgkWp1IrxpQrq3OKB4=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"YHbj/dy03AlbDBP4I3K/schjTYFCYe4a2JzGVdUj8jQ=";s:6:"sha256";s:44:"ETBi8/sWXl4RTQlqq5a9MqPhjdmmpSMa7nv59ksJ8sI=";s:6:"sha256";s:44:"kONIunlG9gIleUpOCaXYRbeLEMg0+mLLTgDyEUmJ6Cw=";s:6:"sha256";s:44:"bGYCSzYdIYsEP5J0cuGFwo/WSw9Bu9Fmb+XspXlm8M0=";s:6:"sha256";s:44:"Kvxx0UtK4Ai9Xgg/F+HMzBlIK+/MB+E0H4sFfW8xqbM=";s:6:"sha256";s:44:"WI7jCxJXPiiUF2vTItHpNv8NwGGi+6GOZEyeAPpH1cw=";s:6:"sha256";s:44:"IAp0MzTkui+Xa3utIZTJ+VzQvgnhHm6iGkso+1A4q4o=";s:6:"sha256";s:44:"sCtMb+vGNeokNt9NfeifQKtcCbfRoe4hL3Cojrt3oEc=";s:6:"sha256";s:44:"MvjtWFhzI9Vl0mj2UDYz1c37iaCsUwm5Kaj5Ke6J8Yk=";s:6:"sha256";s:44:"n+zcimuiFTf3ZHHDOJIdo4goX2qaIsq3ozUGiS4nyek=";s:6:"sha256";s:44:"KKKXe0yyGfg0SgStJEq9SaorV7wzRS97fD7DAiVFCTM=";s:6:"sha256";s:44:"0u4hWx5+UdM+1TX/1AgOe45atnh53MMeQ0zL3LnYfkk=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:10:{s:44:"oO1Xt6qXR2aW9mdBxMq7wZceRubA8mmAy4uUuG4Bm8I=";s:6:"sha256";s:44:"HPIxnyzVlaF/ts34YqW8Wi4IAuqgn8yo9suW8moh8SQ=";s:6:"sha256";s:44:"hmOPOgPaduXRLsBrfOgy/yW7NhlAxt7CKTRjPDEEofg=";s:6:"sha256";s:44:"xb2/WnaKv0QWlm69ZBb0gVXBJBaEXbseaMgrGTDZTwU=";s:6:"sha256";s:44:"GFoJe+kgQtQG6FjWo7F6tOrKxZ9oo1MRD3jvA0NCugI=";s:6:"sha256";s:44:"7UtF372JIJTDSsT/ehWeA9sLeaedGiJm4D+PZb9C2lk=";s:6:"sha256";s:44:"eO1xmW267E82K0Y7lqnyQHsskW0JuXN/R7AAH71+w24=";s:6:"sha256";s:44:"8qQJje8mWxez1UveEB/sv8CXbsuYMP2SGo3PqMX184g=";s:6:"sha256";s:44:"JjInmPW4mG8yTlxU33eog70rGb0iGG0Vgsm/tRPoGmg=";s:6:"sha256";s:44:"5B4eqYXXrDSRmn8G9J6dRfAdaFN8ngvwIv97vNtCMvg=";s:6:"sha256";}}}s:4:"html";s:60560:"        <div class="block widget block-products-list grid">
+                    <div class="block-title">
+                <strong>Điện thoại</strong>
+            </div>
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/samsung-galaxy-m51.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-110">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/s/a/samsung-galaxy-m51-trang-new-600x600-600x600_1_.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Samsung&#x20;Galaxy&#x20;M51"/></span>
+</span>
+<style>.product-image-container-110 {
+    width: 240px;
+}
+.product-image-container-110 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-110");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-110  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Samsung Galaxy M51"
+                                       href="http://192.168.1.138/samsung-galaxy-m51.html"
+                                       class="product-item-link">
+                                        Samsung Galaxy M51                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="110" data-price-box="product-id-110">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-110-widget-product-grid"                data-price-amount="8900000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">8.900.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Samsung Galaxy M51" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/110/" method="post">
+                                                            <input type="hidden" name="product" value="110">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTEwLw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":110,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"110","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/realme-c12.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-109">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/r/e/realme-c12-do-13-600x600_1_.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Realme&#x20;C12"/></span>
+</span>
+<style>.product-image-container-109 {
+    width: 240px;
+}
+.product-image-container-109 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-109");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-109  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Realme C12"
+                                       href="http://192.168.1.138/realme-c12.html"
+                                       class="product-item-link">
+                                        Realme C12                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="109" data-price-box="product-id-109">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-109-widget-product-grid"                data-price-amount="3190000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">3.190.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Realme C12" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/109/" method="post">
+                                                            <input type="hidden" name="product" value="109">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTA5Lw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":109,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"109","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/vivo-y51.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-108">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/v/i/vivo-y51-bac-600x600-600x600_2_.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Vivo&#x20;Y51"/></span>
+</span>
+<style>.product-image-container-108 {
+    width: 240px;
+}
+.product-image-container-108 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-108");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-108  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Vivo Y51"
+                                       href="http://192.168.1.138/vivo-y51.html"
+                                       class="product-item-link">
+                                        Vivo Y51                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="108" data-price-box="product-id-108">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-108-widget-product-grid"                data-price-amount="5790000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">5.790.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Vivo Y51" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/108/" method="post">
+                                                            <input type="hidden" name="product" value="108">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTA4Lw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":108,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"108","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/iphone-12-pro-max-128gb.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-107">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/i/p/iphone-12-pro-max-xanh-duong-new-600x600-600x600_2_.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="iPhone&#x20;12&#x20;Pro&#x20;Max&#x20;128GB"/></span>
+</span>
+<style>.product-image-container-107 {
+    width: 240px;
+}
+.product-image-container-107 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-107");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-107  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="iPhone 12 Pro Max 128GB"
+                                       href="http://192.168.1.138/iphone-12-pro-max-128gb.html"
+                                       class="product-item-link">
+                                        iPhone 12 Pro Max 128GB                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="107" data-price-box="product-id-107">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-107-widget-product-grid"                data-price-amount="21290000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">21.290.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="iPhone 12 Pro Max 128GB" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/107/" method="post">
+                                                            <input type="hidden" name="product" value="107">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTA3Lw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":107,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"107","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/oppo-reno5.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-106">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/o/p/oppo-reno5-trang-600x600-1-600x600_2_.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="OPPO&#x20;Reno5"/></span>
+</span>
+<style>.product-image-container-106 {
+    width: 240px;
+}
+.product-image-container-106 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-106");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-106  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="OPPO Reno5"
+                                       href="http://192.168.1.138/oppo-reno5.html"
+                                       class="product-item-link">
+                                        OPPO Reno5                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="106" data-price-box="product-id-106">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-106-widget-product-grid"                data-price-amount="8690000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">8.690.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="OPPO Reno5" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/106/" method="post">
+                                                            <input type="hidden" name="product" value="106">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTA2Lw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":106,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"106","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/samsung-galaxy-a02.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-105">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/s/a/samsung-galaxy-a02-xanhduong-600x600-600x600_2_.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Samsung&#x20;Galaxy&#x20;A02"/></span>
+</span>
+<style>.product-image-container-105 {
+    width: 240px;
+}
+.product-image-container-105 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-105");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-105  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Samsung Galaxy A02"
+                                       href="http://192.168.1.138/samsung-galaxy-a02.html"
+                                       class="product-item-link">
+                                        Samsung Galaxy A02                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="105" data-price-box="product-id-105">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-105-widget-product-grid"                data-price-amount="2390000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">2.390.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Samsung Galaxy A02" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/105/" method="post">
+                                                            <input type="hidden" name="product" value="105">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTA1Lw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":105,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"105","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/oppo-a93.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-104">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/o/p/oppo-a93-den-14-600x600.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="OPPO&#x20;A93"/></span>
+</span>
+<style>.product-image-container-104 {
+    width: 240px;
+}
+.product-image-container-104 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-104");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-104  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="OPPO A93"
+                                       href="http://192.168.1.138/oppo-a93.html"
+                                       class="product-item-link">
+                                        OPPO A93                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="104" data-price-box="product-id-104">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-104-widget-product-grid"                data-price-amount="6000000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">6.000.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="OPPO A93" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/104/" method="post">
+                                                            <input type="hidden" name="product" value="104">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTA0Lw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":104,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"104","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/xiaomi-redmi-note-10s.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-103">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/x/i/xiaomi-redmi-note-10s-xanh-1-600x600.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Xiaomi&#x20;Redmi&#x20;Note&#x20;10S"/></span>
+</span>
+<style>.product-image-container-103 {
+    width: 240px;
+}
+.product-image-container-103 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-103");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-103  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Xiaomi Redmi Note 10S"
+                                       href="http://192.168.1.138/xiaomi-redmi-note-10s.html"
+                                       class="product-item-link">
+                                        Xiaomi Redmi Note 10S                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="103" data-price-box="product-id-103">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-103-widget-product-grid"                data-price-amount="5900000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">5.900.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Xiaomi Redmi Note 10S" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/103/" method="post">
+                                                            <input type="hidden" name="product" value="103">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTAzLw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":103,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"103","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/iphone-12-64gb.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-102">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/i/p/iphone-12-violet-1-600x600_2_.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="iPhone&#x20;12&#x20;64GB"/></span>
+</span>
+<style>.product-image-container-102 {
+    width: 240px;
+}
+.product-image-container-102 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-102");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-102  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="iPhone 12 64GB"
+                                       href="http://192.168.1.138/iphone-12-64gb.html"
+                                       class="product-item-link">
+                                        iPhone 12 64GB                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="102" data-price-box="product-id-102">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-102-widget-product-grid"                data-price-amount="20000000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">20.000.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="iPhone 12 64GB" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/102/" method="post">
+                                                            <input type="hidden" name="product" value="102">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTAyLw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":102,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"102","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://192.168.1.138/samsung-galaxy-s21-5g.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-101">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://192.168.1.138/media/catalog/product/cache/944ae3690bd238364a92a76fc0b5d667/s/a/samsung-galaxy-s21-tim-600x600_2_.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Samsung&#x20;Galaxy&#x20;S21&#x20;5G"/></span>
+</span>
+<style>.product-image-container-101 {
+    width: 240px;
+}
+.product-image-container-101 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-101");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-101  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Samsung Galaxy S21 5G"
+                                       href="http://192.168.1.138/samsung-galaxy-s21-5g.html"
+                                       class="product-item-link">
+                                        Samsung Galaxy S21 5G                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="101" data-price-box="product-id-101">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-101-widget-product-grid"                data-price-amount="14990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">14.990.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Samsung Galaxy S21 5G" action="http://192.168.1.138/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMS4xMzgv/product/101/" method="post">
+                                                            <input type="hidden" name="product" value="101">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMS4xMzgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0Rvdkx6RTVNaTR4TmpndU1TNHhNemd2L3Byb2R1Y3QvMTAxLw,,">
+                                                            <input name="form_key" type="hidden" value="kTc8doxdVtH4WoLK" />                                                            <button type="submit"
+                                                                    title="Thêm vào giỏ hàng"
+                                                                    class="action tocart primary">
+                                                                <span>Thêm vào giỏ hàng</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/192.168.1.138\/wishlist\/index\/add\/","data":{"product":101,"uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' class="action towishlist" data-action="add-to-wishlist" title="Th&#xEA;m&#x20;v&#xE0;o&#x20;danh&#x20;s&#xE1;ch&#x20;y&#xEA;u&#x20;th&#xED;ch">
+                                                            <span>Thêm vào danh sách yêu thích</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/192.168.1.138\/catalog\/product_compare\/add\/","data":{"product":"101","uenc":"aHR0cDovLzE5Mi4xNjguMS4xMzgv"}}' title="Th&#xEA;m&#x20;v&#xE0;o&#x20;so&#x20;s&#xE1;nh">
+                                                            <span>Thêm vào so sánh</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+            
+        <div class="pager">
+    
+                <p class="toolbar-amount">
+            <span class="toolbar-number">
+                            10 sản phẩm                        </span>
+        </p>
+        
+        
+    
+        </div>
+    
+        </div>
+    </div>
+";}

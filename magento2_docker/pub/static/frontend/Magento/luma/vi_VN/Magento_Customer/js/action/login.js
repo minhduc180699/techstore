@@ -1,0 +1,1 @@
+/var/www/docker/magento2_docker/vendor/magento/module-customer/view/frontend/web/js/action/login.js

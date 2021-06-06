@@ -1,0 +1,1 @@
+/var/www/docker/magento2_docker/vendor/magento/module-sales/view/frontend/web/js/view/last-ordered-items.js

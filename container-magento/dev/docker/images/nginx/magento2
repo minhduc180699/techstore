@@ -3,7 +3,7 @@ upstream fastcgi_backend {
   server php:9000;
 }
 server {
-    server_name dev.magentogit.com;
+    server_name 192.168.1.138;
     listen 80;
     set $MAGE_ROOT /var/www/docker/magento2_docker;
     set $MAGE_MODE developer;

@@ -1,0 +1,1 @@
+/var/www/docker/magento2_docker/vendor/mageplaza/module-core/view/adminhtml/web/js/help.js

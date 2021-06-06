@@ -1,0 +1,1 @@
+/var/www/docker/magento2_docker/vendor/magento/module-persistent/view/frontend/web/js/view/customer-data-mixin.js

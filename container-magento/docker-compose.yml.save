@@ -1,0 +1,43 @@
+version: "3.2"
+
+services:
+  php:
+    image: container-magento_php:lates
+t
+    working_dir: /var/www/docker/magento2_docker
+    restart: always
+    volumes:
+      - /var/www/docker/magento2_docker:/var/www/docker/magento2_docker
+  nginx:
+    restart: always
+    image: nginx:latest
+    volumes:
+      - /var/www/docker/magento2_docker:/var/www/docker/magento2_docker
+      - ./dev/docker/images/nginx/magento2:/etc/nginx/conf.d/default.conf
+    ports:
+    - 80:80
+  mysql:
+    restart: always
+    image: mysql:8.0.25
+    command:  mysqld --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    volumes:
+      - ./dev/docker/images/mysql/initdb:/docker-entrypoint-initdb.d
+      - ./dev/docker/data/mysql6:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: '99916081'
+      MYSQL_DATABASE: magento2
+    ports:
+      - 3306:3306
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.13.1
+    ports:
+      - 9200:9200
+      - 9300:9300
+    volumes:
+      - ./dev/docker/data/elasticsearch/config/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+      - ./dev/docker/data/elasticsearch/data:/usr/share/elasticsearch/data
+    environment:
+      ES_JAVA_OPTS: '-Xms512m -Xmx512m'
+      network.bind_host: 0.0.0.0
+      network.host: 0.0.0.0
+      discovery.type: single-node
